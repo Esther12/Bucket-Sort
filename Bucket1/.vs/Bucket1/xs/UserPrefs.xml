@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0FB6479B-5610-403F-8720-4A082D98C467}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bucket1/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Bucket1/Models/SortModel.cs" Line="33" Column="14" />
+      <File FileName="Bucket1/Controllers/HomeController.cs" Line="21" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bucket1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
